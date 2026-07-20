@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zihanfakir.pro.bd/sitemap.xml
+Sitemap: https://xn--w5by2cuad.xn--45bl4db.xn--54b7fta0cc/sitemap.xml
